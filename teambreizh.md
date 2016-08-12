@@ -1,5 +1,5 @@
 ---
 title: Team Breiz(h) à gratter, un espace de débats
-label: title
+label: Museomix Ouest
 owner: hackmuseomix/prototypes_museomixouest/blob/master/team-breizh-a-gratter.md
 ---
